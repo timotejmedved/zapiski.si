@@ -1,0 +1,25 @@
+body {
+    background-image: url("baner.png");
+    background-repeat: no-repeat;
+    color: #FFFFFF;
+
+    /* stretch image*/
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #464646;
+
+    
+  }
+
+  h1{
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #FFFFFF;
+    background-color: deepskyblue;
+    width: fit-content;
+    padding: 10px;
+  }
