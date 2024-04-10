@@ -1,9 +1,10 @@
+
 body {
     background-image: url("baner.png");
     background-repeat: no-repeat;
     color: #FFFFFF;
 
-    /* stretch image*/
+ 
     background-size: 100% 100%;
     background-attachment: fixed;
     background-position: center;
@@ -13,13 +14,31 @@ body {
 
     
   }
+  
 
-  h1{
-    text-align: center;
+
+  
+
+  .firstMainClass{
     font-size: 50px;
     font-family: 'Times New Roman', Times, serif;
     color: #FFFFFF;
     background-color: deepskyblue;
     width: fit-content;
     padding: 10px;
+    border-radius: 10px;
+  }
+
+  li {
+    font-size: 30px;
+  }
+
+  .firstMainClass2{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #FFFFFF;
+    background-color: deepskyblue;
+    width: fit-content;
+    padding: 10px;
+    border-radius: 10px;
   }
